@@ -1,0 +1,14 @@
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\bin\Debug\OSPROJECT.exe.config
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\bin\Debug\OSPROJECT.exe
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\bin\Debug\OSPROJECT.pdb
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.csproj.AssemblyReference.cache
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.Properties.Resources.resources
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.csproj.GenerateResource.cache
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.exe
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.pdb
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.Form1.resources
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.option.resources
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.calNonPreemp.resources
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.GantChart.resources
+C:\Users\Hp-21\source\repos\OSPROJECT\OSPROJECT\obj\Debug\OSPROJECT.calPreemp.resources
